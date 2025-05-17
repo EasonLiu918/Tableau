@@ -21,8 +21,6 @@ Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market sh
 | Key fields | *Region*, *Year*, *Powertrain Type* (BEV / PHEV / Hybrid), *Unit* |
 | Measures | *Sales Volume*, *EV Share %*, *Vehicle Stock*, *Charging Points* |  
 
-The data is embedded inside `project_electric_vehicle.twbx`; no external connection is required. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
-
 ---
 
 ## 🔍 Dashboard Highlights  
