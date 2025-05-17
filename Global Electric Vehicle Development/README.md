@@ -2,7 +2,7 @@
 
 ## 📌 Overview  
 This interactive Tableau dashboard visualises the rise of electric vehicles (EVs) worldwide.  
-Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market shares and adoption rates (2010 – 2023), with forecast lines to hint at future growth. By combining filters, parameters and responsive charts, the workbook helps policymakers, industry analysts and researchers understand the pace and pattern of EV adoption across 50-plus economies. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
+Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market shares and adoption rates (2010 – 2023), with forecast lines to hint at future growth. By combining filters, parameters and responsive charts, the workbook helps policymakers, industry analysts and researchers understand the pace and pattern of EV adoption across 50-plus economies. 
 
 ---
 
