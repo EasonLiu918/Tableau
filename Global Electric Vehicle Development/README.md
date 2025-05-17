@@ -53,7 +53,7 @@ Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market sh
 ---
 
 ## 👤 Author  
-Liu Hai-Sung (Eason) – HKUST ISOM 3330  
+Liu Hai-Sung (Eason)
 
 ---
 
