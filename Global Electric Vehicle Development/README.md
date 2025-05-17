@@ -29,8 +29,6 @@ Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market sh
 | **Global EV Sales Trend** (line + forecast) | Track growth and project future demand |
 | **BEV vs PHEV Trend** (parameter-driven line) | Compare battery-only vs hybrid uptake |
 | **Powertrain Share Pie** | Snapshot of market composition for any selected year |
-Filters (Country, Year) and a Powertrain switch keep all charts synchronised. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
-
 ---
 
 ## 🚀 Key Insights  
