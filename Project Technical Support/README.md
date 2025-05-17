@@ -1,7 +1,7 @@
 # 🛠️ Technical Support Operations Dashboard  
 
 ## 📌 Overview  
-An interactive Tableau workbook that tracks technical-support performance across countries, products and support tiers. It visualises **monthly ticket trends, SLA fulfilment, priority mixes and workload by tier**, giving team leads and operations managers a fast way to spot bottlenecks and allocate resources. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
+An interactive Tableau workbook that tracks technical-support performance across countries, products and support tiers. It visualises **monthly ticket trends, SLA fulfilment, priority mixes and workload by tier**, giving team leads and operations managers a fast way to spot bottlenecks and allocate resources.
 
 ---
 
