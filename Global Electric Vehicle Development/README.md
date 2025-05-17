@@ -1,52 +1,64 @@
-# ISOM3330 - Global Electric Vehicle Development Dashboard
+# 🚗 Global Electric Vehicle Development Dashboard  
 
-An interactive Tableau workbook that explores the rise of electric vehicles (EVs) around the world, built on **IEA Global EV Data 2024**.  
-It lets users compare sales trends, BEV/PHEV market shares and regional adoption paths from 2010-2023, with forecast lines for future insight. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
-
----
-
-
-### 1 . Quick start
-
-1. **Software** – Tableau Desktop 2023.3 or newer.  
-2. **Open** `project_electric_vehicle.twbx`; all data is embedded, no connection setup required.  
-3. **Interact**:
-   * *Country filter* – focus on one or more markets.
-   * *Powertrain switch* – toggle between **BEV** and **PHEV** views.
-   * *Year selector* – change the pie-chart cross-section.
-   * Hover or click for tooltips and drill-down.
+## 📌 Overview  
+This interactive Tableau dashboard visualises the rise of electric vehicles (EVs) worldwide.  
+Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market shares and adoption rates (2010 – 2023), with forecast lines to hint at future growth. By combining filters, parameters and responsive charts, the workbook helps policymakers, industry analysts and researchers understand the pace and pattern of EV adoption across 50-plus economies. :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}  
 
 ---
 
-### 2 . Data source
-
-| Source | Link / Notes |
-|--------|--------------|
-| International Energy Agency – Global EV Data 2024 | Annual sales, market share, EV stock and charging infrastructure for 50+ economies |
-
----
-
-### 3 . Dashboard layout
-
-1. **Global EV Sales Trend** – line chart with optional forecast.  
-2. **BEV vs PHEV Trend** – second line chart driven by the parameter switch.  
-3. **Powertrain Share** – pie chart for a user-selected year.  
-Filters and parameters cascade to keep all three views in sync. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
+## 🛠️ Tools & Technologies  
+- **Tableau Desktop 2023.3** – dashboard creation & forecasting  
+- **Python 3** (data tidy-up)  
+- **Pandas / NumPy** – preprocessing & extract generation  
+- **Git / GitHub** – version control and collaboration  
 
 ---
 
-### 4 . Intended users & scenarios
+## 🗂️ Dataset  
+| Source | International Energy Agency – *Global EV Data 2024* |
+| ------ | --------------------------------------------------- |
+| Span   | 2010 – 2023 • 50 + countries                        |
+| Key fields | *Region*, *Year*, *Powertrain Type* (BEV / PHEV / Hybrid), *Unit* |
+| Measures | *Sales Volume*, *EV Share %*, *Vehicle Stock*, *Charging Points* |  
 
-* **Policymakers** – benchmark national incentive impact.
-* **Industry analysts / OEMs** – gauge market maturity and plan capacity.
-* **Researchers** – correlate charging infrastructure with adoption speed. :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}
+The data is embedded inside `project_electric_vehicle.twbx`; no external connection is required. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}  
 
 ---
 
-### 5 . How to extend
+## 🔍 Dashboard Highlights  
+| View | Purpose |
+|------|---------|
+| **Global EV Sales Trend** (line + forecast) | Track growth and project future demand |
+| **BEV vs PHEV Trend** (parameter-driven line) | Compare battery-only vs hybrid uptake |
+| **Powertrain Share Pie** | Snapshot of market composition for any selected year |
+Filters (Country, Year) and a Powertrain switch keep all charts synchronised. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
 
-* Replace the embedded extract with a live IEA database or your own CSV.  
-* Add calculated fields (e.g., CAGR, per-capita penetration).  
-* Embed the workbook on Tableau Public for wider sharing.
+---
 
+## 🚀 Key Insights  
+- **Accelerating growth** – global EV sales curve steepens post-2020, led by China, EU and the US.  
+- **Diverging powertrains** – BEV share overtakes PHEV in most mature markets after 2018.  
+- **Policy impact visible** – spikes coincide with subsidy launches or tightening emission targets.  
 
+---
+
+## 💡 Key Takeaways  
+1. **Incentives matter** – sustained subsidies correlate with higher BEV penetration.  
+2. **Infrastructure drives adoption** – regions with dense charging networks show faster sales growth.  
+3. **Market timing differs** – emerging economies follow a delayed but steeper adoption path once infrastructure is in place.  
+
+---
+
+## 🧭 Strategic Recommendations  
+- **Benchmark incentives**: replicate policies of high-growth countries to accelerate local adoption.  
+- **Invest in charging**: prioritise fast-charger rollout where EV share lags infrastructure growth.  
+- **Plan production**: OEMs should align capacity with forecasted CAGR per region to avoid supply bottlenecks.  
+
+---
+
+## 👤 Author  
+Liu Hai-Sung (Eason) – HKUST ISOM 3330  
+
+---
+
+> *For academic use only. IEA data © International Energy Agency; used here under educational fair-use.*
