@@ -5,16 +5,8 @@ It lets users compare sales trends, BEV/PHEV market shares and regional adoption
 
 ---
 
-### 1 . Project files
 
-| File | Purpose |
-|------|---------|
-| `project_electric_vehicle.twbx` | Packaged Tableau dashboard (open directly in Tableau Desktop) |
-| `isom3330_project_global_electric_vehicle_development.pdf` | Short report describing data, design logic and use cases |
-
----
-
-### 2 . Quick start
+### 1 . Quick start
 
 1. **Software** – Tableau Desktop 2023.3 or newer.  
 2. **Open** `project_electric_vehicle.twbx`; all data is embedded, no connection setup required.  
@@ -26,7 +18,7 @@ It lets users compare sales trends, BEV/PHEV market shares and regional adoption
 
 ---
 
-### 3 . Data source
+### 2 . Data source
 
 | Source | Link / Notes |
 |--------|--------------|
@@ -36,7 +28,7 @@ Data range: **2010-2023**; dimensions: *Region*, *Year*, *Powertrain Type*, *Uni
 
 ---
 
-### 4 . Dashboard layout
+### 3 . Dashboard layout
 
 1. **Global EV Sales Trend** – line chart with optional forecast.  
 2. **BEV vs PHEV Trend** – second line chart driven by the parameter switch.  
@@ -45,7 +37,7 @@ Filters and parameters cascade to keep all three views in sync. :contentReferenc
 
 ---
 
-### 5 . Intended users & scenarios
+### 4 . Intended users & scenarios
 
 * **Policymakers** – benchmark national incentive impact.
 * **Industry analysts / OEMs** – gauge market maturity and plan capacity.
@@ -53,16 +45,10 @@ Filters and parameters cascade to keep all three views in sync. :contentReferenc
 
 ---
 
-### 6 . How to extend
+### 5 . How to extend
 
 * Replace the embedded extract with a live IEA database or your own CSV.  
 * Add calculated fields (e.g., CAGR, per-capita penetration).  
 * Embed the workbook on Tableau Public for wider sharing.
 
----
-
-### 7 . License
-
-This project is educational (HKUST ISOM 3330).  
-IEA data © International Energy Agency, used under academic fair-use.
 
