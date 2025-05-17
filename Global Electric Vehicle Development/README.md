@@ -6,14 +6,6 @@ Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market sh
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **Tableau Desktop 2023.3** – dashboard creation & forecasting  
-- **Python 3** (data tidy-up)  
-- **Pandas / NumPy** – preprocessing & extract generation  
-- **Git / GitHub** – version control and collaboration  
-
----
-
 ## 🗂️ Dataset  
 | Source | International Energy Agency – *Global EV Data 2024* |
 | ------ | --------------------------------------------------- |
