@@ -24,8 +24,6 @@ It lets users compare sales trends, BEV/PHEV market shares and regional adoption
 |--------|--------------|
 | International Energy Agency – Global EV Data 2024 | Annual sales, market share, EV stock and charging infrastructure for 50+ economies |
 
-Data range: **2010-2023**; dimensions: *Region*, *Year*, *Powertrain Type*, *Unit*; measures: *Sales volume*, *EV share %*, *Value*. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
-
 ---
 
 ### 3 . Dashboard layout
