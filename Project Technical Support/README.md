@@ -26,8 +26,7 @@ An interactive Tableau workbook that tracks technical-support performance across
 ## 🚀 Key Insights  
 - **Workload seasonality** — certain months show spikes, indicating release cycles or promotion periods.  
 - **Priority imbalance** — specific product lines generate a higher share of critical tickets.  
-- **SLA gaps** — compliance falls below target when workload surges, suggesting capacity issues. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}  
-
+- **SLA gaps** — compliance falls below target when workload surges, suggesting capacity issues.
 ---
 
 ## 💡 Key Takeaways  
