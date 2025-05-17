@@ -54,7 +54,3 @@ Built on **IEA Global EV Data 2024**, it tracks annual sales, BEV/PHEV market sh
 
 ## 👤 Author  
 Liu Hai-Sung (Eason)
-
----
-
-> *For academic use only. IEA data © International Energy Agency; used here under educational fair-use.*
