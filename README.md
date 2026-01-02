@@ -1,10 +1,10 @@
-# 📊 Global Electric Vehicle Development Analysis & Technical Support Operation Analysis  
+# Global Electric Vehicle Development Analysis & Technical Support Operation Analysis  
 
 Each project lives in its own folder and can be opened directly in Tableau Desktop 2023.3 +.
 
 ---
 
-## 🚀 Projects at a Glance  
+## Projects at a Glance  
 
 | Folder | Workbook | Focus |
 | ------ | -------- | ----- |
