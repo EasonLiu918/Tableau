@@ -1,11 +1,11 @@
-# 🛠️ Technical Support Operations Dashboard  
+# Technical Support Operations Dashboard  
 
-## 📌 Overview  
+## Overview  
 An interactive Tableau workbook that tracks technical-support performance across countries, products and support tiers. It visualises **monthly ticket trends, SLA fulfilment, priority mixes and workload by tier**.
 
 ---
 
-## 🗂️ Dataset  
+## Dataset  
 | Size | 3 000 + tickets |
 | ---- | --------------- |
 | Key fields | *Date*, *Country*, *Product Group*, *Support Level*, *Priority*, *SLA Status* |
@@ -13,7 +13,7 @@ An interactive Tableau workbook that tracks technical-support performance across
 
 ---
 
-## 🔍 Dashboard Highlights  
+## Dashboard Highlights  
 | Worksheet | Purpose |
 |-----------|---------|
 | **Monthly Ticket Trend (Line)** | Track workload over time |
@@ -23,25 +23,25 @@ An interactive Tableau workbook that tracks technical-support performance across
 
 ---
 
-## 🚀 Key Insights  
+## Key Insights  
 - **Workload seasonality** — certain months show spikes, indicating release cycles or promotion periods.  
 - **Priority imbalance** — specific product lines generate a higher share of critical tickets.  
 - **SLA gaps** — compliance falls below target when workload surges, suggesting capacity issues.
 ---
 
-## 💡 Key Takeaways  
+## Key Takeaways  
 1. **Staffing adjustments** during peak months can stabilise SLA performance.  
 2. **Targeted training** for teams handling high-priority products boosts first-contact resolution.  
 3. **Workflow review** is needed where low-priority tickets consume disproportionate effort.  
 
 ---
 
-## 🎯 Strategic Recommendations  
+## Strategic Recommendations  
 - **Forecast staffing** with the monthly trend to pre-empt backlogs.  
 - **Automate low-priority triage** to free experts for critical cases.  
 - **Monitor SLA pie** weekly; trigger alerts when compliance < 95 %.  
 
 ---
 
-## 👤 Author  
+## Author  
 Liu Hai-Sung (Eason)
